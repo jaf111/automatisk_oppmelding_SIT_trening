@@ -10,7 +10,7 @@ Konfigurer `sit_trening.yaml` slik at du blir meldt opp til riktig tidspunkt (St
 
 Må sette ntnu passord og brukernavn i ".env" fila (får å logge inn med Feide).
 
-Når alt det er gjort kjør > sit_trening.py
+Når alt det er gjort kjør >> python sit_trening.py
 
 Hvis du ønsker å melde deg opp til flere tidspunkt, så må du bare endre `sit_trening.yaml` tid og kjøre skripte på nytt. 
 
