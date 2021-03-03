@@ -1,4 +1,4 @@
-Automatisk oppmelding for SIT trening. Jeg har prøvd å gjøre mitt beste (og raskt) :) Tar gjerne i mot forslag til endringer! 
+Automatisk oppmelding for SIT trening. Jeg har prøvd å gjøre mitt beste (men jeg ville ikke bruke mange timer så derfor er koden litt dårlig strukturert) :) Tar gjerne i mot forslag til endringer! 
 
 # Hvordan repoet fungerer #
 
