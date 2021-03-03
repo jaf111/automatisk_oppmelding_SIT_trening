@@ -25,7 +25,7 @@ Installations you may need:
 > python -m pip install requests
 
 Kan også hende man kan få problemer med geckodriver så det må reinstalleres. Evt. endre kodelinjen
-webdriver.Firefox() til webdriver.dinNettLeser
+webdriver.Firefox() til webdriver.dinNettLeser()
 
 Hvis noen andre feilmedlinger skulle forekomme så kjør skripte på nytt eller sjekk at du har nett :) 
 
