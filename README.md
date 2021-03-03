@@ -1,6 +1,6 @@
 Automatisk oppmelding for SIT trening. Jeg har prøvd å gjøre mitt beste (men jeg ville ikke bruke mange timer så derfor er koden litt dårlig strukturert) :) Tar gjerne i mot forslag til endringer! 
 
-# Hvordan repoet fungerer #
+# Hvordan skripte fungerer #
 
 I stedet får å bruke masse tid på logge inn på sit.no/trening så trengs det bare å kjøre dette skripte her så er du oppmeldt til egentrenig på SIT 
 
